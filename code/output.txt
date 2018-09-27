@@ -1,0 +1,547 @@
+  
+&&&&&&&&&&&&&&&&&&&&&&&&&
+First classified ham (testing/spam):
+&&&&&&&&&&&&&&&&&&&&&&&&&
+From lvi300702@free.fr  Tue Aug  6 12:50:59 2002
+Return-Path: <lvi300702@free.fr>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5D3FF44229
+	for <jm@localhost>; Tue,  6 Aug 2002 07:12:40 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:12:40 +0100 (IST)
+Received: from smtp4.9tel.net (smtp.9tel.net [213.203.124.147]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g72KQAv11120 for
+    <jm@jmason.org>; Fri, 2 Aug 2002 21:26:11 +0100
+Received: from free.fr (131.138.62.62.9velizy1-1-ro-as-i2-2.9tel.net
+    [62.62.138.131]) by smtp4.9tel.net (Postfix) with ESMTP id 3E91A5BDA2;
+    Fri,  2 Aug 2002 22:24:39 +0200 (CEST)
+Message-Id: <139372002852202254873@free.fr>
+X-Em-Version: 5, 0, 0, 21
+X-Em-Registration: #01B0530810E603002D00
+X-Priority: 3
+Reply-To: loveimpact@imp20.com
+To: "-" <lvi300702@free.fr>
+From: "Loveimpact" <lvi300702@free.fr>
+Subject: Dialogue et Rencontre ? Rejoins nous !
+Date: Fri, 2 Aug 2002 22:22:54 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset="iso-8859-1"
+
+Venez rencontrer l'ame soeur sur LOVEIMPACT.com
+
+    > Inscription gratuite
+    > Consultez les fiches
+    > Dialoguez en direct
+
+ 
+
+Inscrivez-vous gratuitement en cliquant ici :
+http://www.imp20.com/loveimpact/loveimpact300702-2.htm
+
+ 
+
+Vous recevez cet e-mail en tant qu'abonn� � Oktomail
+Pour ne plus �tre contact�, cliquez ici :
+http://www.imp20.com/loveimpact/loveimpact300702-remove.htm
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+</head>
+
+<body bgcolor=3D"#FFFFFF">
+<table width=3D"59%" border=3D"0" align=3D"center">
+  <tr>=20
+    <td>
+      <div align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-=
+serif" size=3D"3"><b><font color=3D"5A1558">Rencontrez=20
+        l'amour pour la vie ou juste pour une nuit=2E=2E=2E<br>
+        100% Anonyme !<br>
+        100 % Discret=2E=2E=2E<br>
+        Toujours coquin mais Jamais Vulgaire ! </font></b></font></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse" bordercolor=3D"#111111" width=3D"320" align=3D"cen=
+ter">
+        <tr>=20
+          <td width=3D"100%"><a href=3D"http://www=2Eimp20=2Ecom/loveimpac=
+t/loveimpact300702-1=2Ehtm" target=3D"_blank"><img border=3D"0" src=3D"htt=
+p://x=2Ejmailer=2Ecom/fr/standalone/loveimpact/260702/haut_3=2Ejpg" width=3D=
+"400" height=3D"100"></a></td>
+        </tr>
+        <tr>=20
+          <td width=3D"100%" background=3D"http://x=2Ejmailer=2Ecom/fr/sta=
+ndalone/loveimpact/260702/inscription_fond=2Ejpg">=20
+            <div align=3D"center">=20
+              <center>
+                <table border=3D"0" cellpadding=3D"4" cellspacing=3D"0" st=
+yle=3D"border-collapse: collapse" bordercolor=3D"#111111" width=3D"90%">
+                  <tr>=20
+                    <td width=3D"100%">
+                      <div align=3D"center"><b><font face=3D"Verdana" size=
+=3D"2"><br>
+                        </font></b>=20
+                        <table width=3D"100%" border=3D"0">
+                          <tr>=20
+                            <td width=3D"12%">&nbsp;</td>
+                            <td width=3D"88%"><b><font face=3D"Verdana" si=
+ze=3D"2">-=20
+                              Inscription ANONYME et GRATUITE <br>
+                              - Dialogue en Direct <br>
+                              - Fiches d'inscrit(e)s + photos<br>
+                              - =2E=2E=2E </font></b></td>
+                          </tr>
+                        </table>
+                        <b><font face=3D"Verdana" size=3D"2"><br>
+                        Une s&eacute;lection des dernir(e)s inscrit(e)s du=
+ jour<br>
+                        <br>
+                        </font></b> </div>
+                      <div align=3D"left">=20
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-collapse: collapse" bordercolor=3D"#111111" width=3D"1=
+00%" align=3D"left">
+                          <tr>=20
+                            <td width=3D"23%" height=3D"109" valign=3D"top=
+" align=3D"left">=20
+                              <img border=3D"0" src=3D"http://x=2Ejmailer=2E=
+com/fr/standalone/loveimpact/260702/photo01=2Ejpg" width=3D"70" height=3D"=
+93"></td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+" height=3D"109"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><b>=20
+                              CANDILIENE</b><br>
+                              Blonde, 19ans<br>
+                              Ne veut pas passer seule ses vacances=2E=2E=2E=
+ <br>
+                              Ch H Metisse ou black de pr=E9f=E9rence=2E=2E=
+=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom<br>
+                              &nbsp;</font></font></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo04=2Ejpg" width=3D"70" height=3D"105"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              <br>
+                              Mehdi</b><br>
+                              Juste pour one night one girl delirante et t=
+op fun=2E=2E=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-le</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo02=2Ejpg" width=3D"70" height=3D"94"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              SONIA</b><br>
+                              Blonde, 21ans<br>
+                              Cherche =E0 =EAtre s=E9duite par un homme mu=
+scl=E9 de la=20
+                              t=EAte only !<br>
+                              <font size=3D"1"><br>
+                              <font color=3D"#FF0000"><a href=3D"http://ww=
+w=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_blank">Con=
+tactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></font></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo03=2Ejpg" width=3D"70" height=3D"100"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              Yangchi</b><br>
+                              M=E9tisse asiatique, 19ans<br>
+                              faite la r=EAver en lui racontant des histoi=
+res=2E=2E=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p>&nbsp;</p>
+                      <p>&nbsp;
+                    </td>
+                  </tr>
+                </table>
+                <b><font face=3D"Verdana" size=3D"2"><a href=3D"http://www=
+=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_blank"><img=
+ src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimpact/260702/inscripti=
+on_gratuite=2Ejpg" width=3D"192" height=3D"39" border=3D"0"></a></font></b=
+>=20
+              </center>
+            </div>
+          </td>
+        </tr>
+        <tr>=20
+          <td width=3D"100%"> <img src=3D"http://x=2Ejmailer=2Ecom/fr/stan=
+dalone/loveimpact/260702/inscription_bas_2=2Egif" width=3D"400" height=3D"=
+13"></td>
+        </tr>
+      </table>
+      <div align=3D"center"></div>
+    </td>
+  </tr>
+</table>
+<p align=3D"center"><img src=3D"http://www=2Eimp20=2Ecom/loveimpact/loveim=
+pact300702=2Egif">=20
+  <font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">Vous rec=
+evez cet=20
+  e-mail en tant qu'abonn&eacute; &agrave; Oktomail<br>
+  Pour ne plus recevoir de message, <a href=3D"http://www=2Eimp20=2Ecom/lo=
+veimpact/loveimpact300702-remove=2Ehtm">cliquez-ici</a>=2E</font></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&
+First classified spam (testing/spam):
+&&&&&&&&&&&&&&&&&&&&&&&&&
+From OWNER-NOLIST-SGODAILY*JM**NETNOTEINC*-COM@SMTP1.ADMANMAIL.COM  Thu Sep 26 11:30:03 2002
+Return-Path: <OWNER-NOLIST-SGODAILY*JM**NETNOTEINC*-COM@SMTP1.ADMANMAIL.COM>
+Delivered-To: zzzz@localhost.jmason.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by zzzzason.org (Postfix) with ESMTP id 6AE8F16F16
+	for <zzzz@localhost>; Thu, 26 Sep 2002 11:30:02 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Thu, 26 Sep 2002 11:30:02 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8PMxGC17673 for
+    <zzzz@jmason.org>; Wed, 25 Sep 2002 23:59:16 +0100
+Received: from TIPSMTP1.ADMANMAIL.COM (tipsmtp1.theadmanager.com
+    [66.111.219.130] (may be forged)) by webnote.net (8.9.3/8.9.3) with ESMTP
+    id XAA28260 for <JM@NETNOTEINC.COM>; Wed, 25 Sep 2002 23:59:52 +0100
+Message-Id: <200209252259.XAA28260@webnote.net>
+Received: from TIPUTIL2 (tiputil2.corp.tiprelease.com) by
+    TIPSMTP1.ADMANMAIL.COM (LSMTP for Windows NT v1.1b) with SMTP id
+    <70.00006950@TIPSMTP1.ADMANMAIL.COM>; Wed, 25 Sep 2002 17:39:28 -0500
+Date: Wed, 25 Sep 2002 17:23:03 -0500
+From: Customer Service <greatoffers@sendgreatoffers.com>
+To: JM@NETNOTEINC.COM
+Subject: Congratulations! You Get a Free Handheld Organizer!
+X-Info: 134085
+X-Info2: SGO
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+
+<html><head>
+<title>Congratulations! You Get a Free Handheld Organizer!</title>
+</head><img src="http://www.ahamembership.com/cgi-bin/check_opens.cgi?acct_code=SG004" width=1 height=1><body bgcolor="#ffffff" text="#000000">
+
+<center>
+
+
+<table width="642" border="0" cellpadding="0" cellspacing="0">
+<tr><td colspan="3"><img src="http://www.ahamembership.com/assoc_images/7.3-header-PDA.gif" hspace="0"
+     ></td></tr><tr><td width="4" background="http://www.ahamembership.com/assoc_images/red-vertical.gif">
+</td><td width="600">
+
+
+
+<table border="0" width="600" cellpadding="0" cellspacing="10">
+<tr>
+            <td valign="top"> <A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" >
+              </A> <font face="arial,helvetica" size="2">
+              <p>Dear Friend,
+              <p>I have your Personal Digital Organizer. It's FREE, but I need to know where to send it. <A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" >Click
+                Here</A> and complete the form.
+              <p>        Organize your life and keep track of
+            appointments, names and numbers with this modern digital organizer.
+            Store up to 100 important text notes and 100 names/numbers.
+            Features easy to use, touch-screen technology, 10 digit calculator,
+            currency and metric converters, alarm clock and password
+            protection.<BR><BR>Plus you can try all of our money-saving benefits
+            FREE for 30 days. <A
+            href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1">Act
+            Now!</A>
+
+
+
+
+              </font></P></td>
+            <td valign="top"> <font face="arial,helvetica" size="2">
+              <p><A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" ><img src="http://www.ahamembership.com/assoc_images/pdaimage.gif" border="0"></A>
+              </font></P></td>
+          </tr><tr><td valign="top" colspan="2">
+
+<center>
+<table border="0" width="590" cellpadding="0" cellspacing="0">
+<tr><td valign="top">
+<font face="arial,helvetica" size="2">
+<p>
+You also get a full subscription to HOME Magazine at no additional cost!
+<A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" >
+This offer is risk-free</A>, registration only takes a minute and is completely secure.
+It's that easy. Your satisfaction is guaranteed because our credibility is on the line.
+<p>
+<A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" >P.S.:
+This offer is only valid for the next 48 hours, so Act Now!</A> </p>
+
+
+<center>
+<A href="http://theadmanager.com/server/c.asp?ad_key=IAMVQXAAASEN&ext=1" >
+<img src="http://www.ahamembership.com/assoc_images/red-button.gif" width="186" height="34" border="0"></A>
+<p>
+<font face="Arial, Helvetica, sans-serif" size="1">
+Copyright 2002, American Homeowners Association (AHA). All rights reserved.</font>
+</center>
+</font></P></td></tr></table>
+</center></td></tr></table>
+
+
+</td><td width="3" background="http://www.ahamembership.com/assoc_images/red-vertical.gif"> </td></tr><tr><td colspan="3">
+<img src="http://www.ahamembership.com/assoc_images/red-bottom.gif" width="642" height="43">
+</td></tr></table>
+
+</center>
+
+<img src="http://admanmail.com/server/t.asp?ad_key=IAMVQXAAASEN" width="1" height="1" hspace="0" vspace="0" border="0" alt="T">
+<hr size="1" noshade>
+<font face="Arial" size="1" color="#000000">
+You are receiving this mailing because you are a
+member of SendGreatOffers.com and subscribed as:JM@NETNOTEINC.COM
+To unsubscribe <a href="http://admanmail.com/subscription.asp?em=JM@NETNOTEINC.COM&l=SGO">
+<font face="arial" size="1" color="#000000">Click Here</a>
+(http://admanmail.com/subscription.asp?em=JM@NETNOTEINC.COM&l=SGO)
+or reply to this email with REMOVE in the subject line - you must
+also include the body of this message to be unsubscribed. Any correspondence about
+the products/services should be directed to
+the company in the ad.
+%EM%JM@NETNOTEINC.COM%/EM%
+<BR></FONT> </body> </html>
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&
+First classified ham (testing/ham):
+&&&&&&&&&&&&&&&&&&&&&&&&&
+From rpm-list-admin@freshrpms.net  Mon Jul 22 17:57:18 2002
+Return-Path: <rpm-zzzlist-admin@freshrpms.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B62FB440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 12:57:17 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 17:57:17 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFwIY14597 for
+    <jm-rpm@jmason.org>; Mon, 22 Jul 2002 16:58:18 +0100
+Received: from egwn.net (ns2.egwn.net [193.172.5.4]) by webnote.net
+    (8.9.3/8.9.3) with ESMTP id TAA28664 for <jm-rpm@jmason.org>;
+    Sun, 21 Jul 2002 19:31:12 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g6LIB3C15611; Sun, 21 Jul 2002 20:11:03
+    +0200
+Received: from basket.ball.reliam.net (basket.ball.reliam.net
+    [213.91.6.7]) by egwn.net (8.11.6/8.11.6/EGWN) with ESMTP id g6LI9dC13365
+    for <rpm-list@freshrpms.net>; Sun, 21 Jul 2002 20:09:39 +0200
+Received: from localhost.localdomain (pD9EB53A5.dip.t-dialin.net
+    [217.235.83.165]) by basket.ball.reliam.net (Postfix) with SMTP id
+    D16893E01 for <rpm-list@freshrpms.net>; Sun, 21 Jul 2002 20:09:33 +0200
+    (CEST)
+From: che <che666@uni.de>
+To: rpm-zzzlist@freshrpms.net
+Subject: Re: Ximian apt repos?
+Message-Id: <20020721200350.6fa40280.che666@uni.de>
+In-Reply-To: <20020721105151.01f2db4a.kilroy@kamakiriad.com>
+References: <1027203479.5354.14.camel@athena>
+    <20020721105151.01f2db4a.kilroy@kamakiriad.com>
+Organization: che
+X-Mailer: Sylpheed version 0.8.0 (GTK+ 1.2.10; i386-redhat-linux)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-zzzlist-admin@freshrpms.net
+Errors-To: rpm-zzzlist-admin@freshrpms.net
+X-Beenthere: rpm-zzzlist@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-zzzlist@freshrpms.net
+List-Help: <mailto:rpm-zzzlist-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-zzzlist@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-zzzlist.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
+X-Original-Date: Sun, 21 Jul 2002 20:03:50 -0400
+Date: Sun, 21 Jul 2002 20:03:50 -0400
+
+On Sun, 21 Jul 2002 10:51:51 -0500
+Brian Fahrlander <kilroy@kamakiriad.com> wrote:
+
+> [branching the thread, here]
+> 
+>     I found another Ximian repository- I don't know if it works yet...
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps ximian
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps ximian
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps gnomehide
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps gnomehide
+> 
+>     These guys are EXTREMELY apt-friendly.  Unlike most multimedia projects, they seem to prefer RPM/Apt over the older methods.  Isn't that cool?
+> 
+>     Hey- how would I have known to "apt-get install gnome-session" to kick all this off?
+> 
+> ------------------------------------------------------------------------
+> Brian Fahrl�nder              Linux Zealot, Conservative, and Technomad
+> Evansville, IN                    My Voyage: http://www.CounterMoon.com
+> ICQ  5119262
+> ------------------------------------------------------------------------
+> I don't want to hear news from Isreal until the news contains the words
+> "Bullet", "Brain", and "Arafat".
+
+i took a look into the repository it "just" contains gstreamer and his dependecies
+but thats nice for people who use it though :)
+
+thanks,
+che
+
+personally i am capped to 16 kb/s upstream only :\ if i just had like 10 to 20 times of that i would run a repository for sure. i guess alot of people would love to even get daily builds (yes i know i deserve to be eaten for that idea because it would need alot of bandwidth) but well would still be nice :).
+ 
+> _______________________________________________
+> RPM-List mailing list <RPM-List@freshrpms.net>
+> http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&
+First classified spam (testing/ham):
+&&&&&&&&&&&&&&&&&&&&&&&&&
+From fork-admin@xent.com  Mon Jul 22 20:38:56 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D642C440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 15:38:54 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 20:38:54 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6MJYg421041 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 20:34:43 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id EA3162940A0; Mon, 22 Jul 2002 12:24:05 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
+    xent.com (Postfix) with ESMTP id 315C429409D for <fork@xent.com>;
+    Mon, 22 Jul 2002 12:23:12 -0700 (PDT)
+Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
+    cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g6MJVx002108; Mon,
+    22 Jul 2002 12:32:03 -0700 (PDT)
+From: "Jim Whitehead" <ejw@cse.ucsc.edu>
+To: <starwars@tytcorp.com>, <fork@spamassassin.taint.org>
+Subject: RE: FREE ORIGINAL STAR WARS CARDS Adv:
+Message-Id: <AMEPKEBLDJJCCDEJHAMIIEKIFCAA.ejw@cse.ucsc.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4133.2400
+Importance: Normal
+In-Reply-To: <1RQ41R5DA10T50.E29F1D0DAC6EX8VX4V5C.empirestrikesback@tytcorp.com>
+X-Ucsc-Cats-Mailscanner: Found to be clean
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Mon, 22 Jul 2002 12:30:17 -0700
+
+> Special Bonus with your order, you will receive
+> 10 Original 1980 Topps Star Wars/Empire Strikes
+> Back Collector Cards Absultely Free!
+> These are Original 1980 Topps Star Wars/Empire
+> Strikes Back Collector Cards from 22 years ago! Not reprints!
+
+I have a complete Blue and Red set (series 1 & 2 from 1977), and many cards
+from  series 3-5. Guess they're not worth too much. This site lists them at
+$45-$60 per set.
+
+I do have a C-3PIO enhanced with penis card:
+
+http://pages.map.com/starwars/faq.html#penis
+
+
+- Jim
+
+
+
+http://xent.com/mailman/listinfo/fork
+
+
+Number of spam emails: 454.0
+Correct: 384
+Wrong: 70
+Correct Rate: 84.58%
+Miss Rate: 15.42%
+
+Number of Ham: 1327.0
+Correct: 1326
+Wrong: 1
+Correct Rate: 99.92%
+Miss Rate: 0.08%
+
+Overall errorRate: 3.99%                                                                                           
