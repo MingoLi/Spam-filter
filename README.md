@@ -10,6 +10,23 @@ first ham and spam classified in testing/ham,
 correct and miss count of each type and their percentage,  
 overall error rate.
 
+### Sample output
+```
+Number of spam emails: 454.0
+Correct: 384
+Wrong: 70
+Correct Rate: 84.58%
+Miss Rate: 15.42%
+
+Number of Ham: 1327.0
+Correct: 1326
+Wrong: 1
+Correct Rate: 99.92%
+Miss Rate: 0.08%
+
+Overall errorRate: 3.99%       
+```
+
 ### Three source files:
 1. Main.java: used to call training and testing method
 2. Util.java: include all training and testing strategy
